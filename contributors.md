@@ -1,7 +1,7 @@
 ##Contributors
 
 * @dayuoba
-  taddayu@sina.com
+  taddayu@sina.com<br />
   @kingzez
   kingzez@sina.com
 * 
