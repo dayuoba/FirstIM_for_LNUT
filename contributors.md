@@ -2,6 +2,5 @@
 
 * @dayuoba
   taddayu@sina.com<br />
-  @kingzez
+* @kingzez
   kingzez@sina.com
-* 
