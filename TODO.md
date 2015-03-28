@@ -5,4 +5,4 @@
 
 * Implement the chat window
 
-* Please do not use anything else execpt bash tool
+* Please do not use anything else except bash tool
