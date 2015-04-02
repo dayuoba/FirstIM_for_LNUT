@@ -5,4 +5,4 @@
 
 * Implement the chat window
 
-* Please do not use anything else execpt bash tool
+* trello.com is our teamwork tool website pls have a register
